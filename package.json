@@ -1,0 +1,12 @@
+{
+  "name": "konectas-fuente",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "generate": "node .github/scripts/generate.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Someone Like You & Konectas",
+  "license": "MIT",
+  "description": ""
+}
